@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesdeiu00gundgoog_0007.png"; bbox 0 0 2948 5086; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 273 2155 1282 2312">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 273 2155 1282 2312">
+     <span class='ocr_line' id='line_1_1' title="bbox 273 2155 1282 2200; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 273 2157 495 2200; x_wconf 69' lang='lat' dir='ltr'>COMMENTATIO</span> <span class='ocrx_word' id='word_1_2' title='bbox 515 2158 555 2198; x_wconf 72' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 574 2155 808 2198; x_wconf 76' lang='lat' dir='ltr'>SUPPLEMEN&#39;I&#39;IS</span> <span class='ocrx_word' id='word_1_4' title='bbox 828 2157 988 2200; x_wconf 79' lang='lat' dir='ltr'><strong>ANNALIUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1006 2155 1282 2198; x_wconf 76' lang='lat' dir='ltr'>PHILOLOGIOORUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 612 2245 943 2312; baseline 0 -26"><span class='ocrx_word' id='word_1_6' title='bbox 612 2246 757 2288; x_wconf 74' lang='lat' dir='ltr'>SEORSUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 775 2245 943 2312; x_wconf 54' lang='lat' dir='ltr'>EXPIJESSA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 323 2369 1226 2430">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 323 2369 1226 2430">
+     <span class='ocr_line' id='line_1_3' title="bbox 323 2369 1226 2430; baseline -0.006 -17"><span class='ocrx_word' id='word_1_8' title='bbox 323 2372 501 2430; x_wconf 66' lang='lat' dir='ltr'><strong>BAGINARUM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 521 2372 641 2413; x_wconf 69' lang='lat' dir='ltr'>nummu</span> <span class='ocrx_word' id='word_1_10' title='bbox 660 2371 739 2412; x_wconf 79' lang='lat' dir='ltr'>SUN&#39;P</span> <span class='ocrx_word' id='word_1_11' title='bbox 759 2369 977 2412; x_wconf 66' lang='lat' dir='ltr'><strong>SUPPLEMDNTI</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 996 2369 1087 2410; x_wconf 71' lang='lat' dir='ltr'><strong>snm</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1107 2370 1226 2410; x_wconf 75' lang='lat' dir='ltr'><strong>DECIMI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1478 5086">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1478 5086">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1478 5086; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1478 5086; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
